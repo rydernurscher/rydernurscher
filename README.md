@@ -1,4 +1,4 @@
-# ## Hi there 👋 I'm Ryder
+# Hi there 👋 I'm Ryder
 
 <p align="center">
   <img src="https://img.shields.io/badge/Godot%20Engine-478CBF?style=for-the-badge&logo=Godot-Engine&logoColor=white" alt="Godot Engine Badge" />
