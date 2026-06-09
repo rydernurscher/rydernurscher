@@ -11,11 +11,7 @@
 
 I'm currently a uni student, aspiring software engineer & indie game developer.
 
-- 🔭 **I’m currently working on** ... a cool new game / project
-- 🌱 **I’m currently learning** ... advanced GDScript and shaders
-- 👯 **I’m looking to collaborate on** ... open-source Godot tools
-- 💬 **Ask me about** ... game development, physics, or coding logic
-
+Bachelor of Engineering (Honours) with a specialisation in Software Engineering @ Macquarie University, Sydney Australia
 ---
 
 ### 🛠️ Tech Stack & Tools
@@ -31,8 +27,8 @@ I'm currently a uni student, aspiring software engineer & indie game developer.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rydernurscher&show_icons=true&theme=dark&hide_border=true&bg_color=121212&title_color=478CBF&icon_color=478CBF" alt="Ryder's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rydernurscher&layout=compact&theme=dark&hide_border=true&bg_color=121212&title_color=478CBF" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-eight.vercel.app/api?username=rydernurscher&show_icons=true&theme=dark&hide_border=true&bg_color=121212&title_color=478CBF&icon_color=478CBF" alt="Ryder's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=rydernurscher&layout=compact&theme=dark&hide_border=true&bg_color=121212&title_color=478CBF" alt="Top Languages" width="48%" />
 </p>
 
 ---
