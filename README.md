@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 About Me
-
+---
 I'm currently a uni student, aspiring software engineer & indie game developer.
 Bachelor of Engineering (Honours) with a specialisation in Software Engineering @ Macquarie University, Sydney Australia
 ---
