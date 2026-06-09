@@ -1,5 +1,9 @@
+<div align="center">
+  
 # Hi there 👋 I'm Ryder
 
+<div align="left">
+  
 <p align="center">
   <img src="https://img.shields.io/badge/Godot%20Engine-478CBF?style=for-the-badge&logo=Godot-Engine&logoColor=white" alt="Godot Engine Badge" />
   <img src="https://img.shields.io/github/followers/rydernurscher?label=Followers&style=for-the-badge&color=478CBF" alt="Followers" />
