@@ -1,16 +1,15 @@
-# ## Hi there 👋 I'm Ryder
+# Hi there 👋 I'm Ryder
 
 <p align="center">
   <img src="https://img.shields.io/badge/Godot%20Engine-478CBF?style=for-the-badge&logo=Godot-Engine&logoColor=white" alt="Godot Engine Badge" />
-  <img src="https://img.shields.io/github/followers/rydernurscher?label=Followers&style=for-the-badge&color=222" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/rydernurscher?label=Stars&style=for-the-badge&color=222" alt="Stars" />
+  <img src="https://img.shields.io/github/followers/rydernurscher?label=Followers&style=for-the-badge&color=222" 
 </p>
 
 ---
 
 ### 🚀 About Me
 
-I'm a passionate developer focused on creating interactive experiences and elegant code. Currently, I'm spending a lot of time crafting projects and exploring new mechanics.
+I'm currently a uni student, aspiring software engineer & indie game developer.
 
 - 🔭 **I’m currently working on** ... a cool new game / project
 - 🌱 **I’m currently learning** ... advanced GDScript and shaders
@@ -41,12 +40,12 @@ I'm a passionate developer focused on creating interactive experiences and elega
 ### 📫 Connect with Me
 
 <p align="left">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:nurscherr@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/yourusername">
+  <a href="https://linkedin.com/in/ryder-nurscher-a0a5143a1">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
-> ⚡ **Fun fact:** Vectors aren't just for math; they are the literal direction of my life.
+
